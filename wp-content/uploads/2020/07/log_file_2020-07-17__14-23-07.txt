@@ -1,0 +1,181 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://africansurveyors.net
+Data file = /home/y75d1904kr5i/public_html/wp-content/uploads/2020/07/unos-magazine-vu-content-free.xml
+Widget file = /home/y75d1904kr5i/public_html/wp-content/uploads/2020/07/unos-magazine-vu-widgets-free.wie
+Customizer file = /home/y75d1904kr5i/public_html/wp-content/uploads/2020/07/unos-magazine-vu-customize-free.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+hootkit-profile - Welcome to My Magazine - Site does not support widget
+Gallery - Premium &gt; Lightbox Gallery - Imported
+hootkit-posts-list - Bold Design Language - Site does not support widget
+hootkit-cta - No Title - Site does not support widget
+hootkit-social-icons - No Title - Site does not support widget
+
+Secondary Sidebar : 
+
+Categories - No Title - Imported
+Calendar - Calendar - Imported
+Text - Bold Design Language - Imported
+
+Topbar Left : 
+
+hootkit-ticker - No Title - Site does not support widget
+hootkit-announce - No Title - Site does not support widget
+hootkit-announce - No Title - Site does not support widget
+hootkit-announce - No Title - Site does not support widget
+
+Topbar Right : 
+
+Navigation Menu - No Title - Imported
+hootkit-social-icons - No Title - Site does not support widget
+Search - No Title - Imported
+
+Header Side : 
+
+Image - No Title - Imported
+
+Menu Side : 
+
+Navigation Menu - No Title - Imported
+hootkit-icon - No Title - Site does not support widget
+Search - No Title - Imported
+
+Below Header Left : 
+
+Text - No Title - Imported
+
+Below Header Right : 
+
+hootkit-announce - No Title - Site does not support widget
+
+Sub Footer : 
+
+Image - No Title - Imported
+
+Footer A Column : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer B Column : 
+
+hootkit-posts-list - Recent Posts - Site does not support widget
+
+Footer C Column : 
+
+Gallery - Premium &gt; Lightbox Gallery - Imported
+
+Footer D Column : 
+
+Text - No Title - Imported
+hootkit-social-icons - No Title - Site does not support widget
+
+Frontpage - Widget Area A  : 
+
+hootkit-ticker-posts - Trending - Site does not support widget
+
+Frontpage - Widget Area B Left : 
+
+hootkit-posts-grid - No Title - Site does not support widget
+
+Frontpage - Widget Area B Right : 
+
+Text - No Title - Imported
+
+Frontpage - Widget Area C  : 
+
+hootkit-posts-list - Sample Category - Site does not support widget
+
+hoot-frontpage-area_c_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+hootkit-posts-list - Sample Category - Site does not support widget
+
+hoot-frontpage-area_c_3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+hootkit-content-blocks - Stay Connected! - Site does not support widget
+Text - No Title - Imported to Inactive
+hootkit-social-icons - No Title - Site does not support widget
+
+Frontpage - Widget Area D  : 
+
+hootkit-posts-blocks - Sample Category - Site does not support widget
+
+hoot-frontpage-area_d_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+Frontpage - Widget Area E  : 
+
+hootkit-content-blocks - No Title - Site does not support widget
+
+hoot-frontpage-area_f_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+hootkit-content-blocks - No Title - Site does not support widget
+
+hoot-frontpage-area_f_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Image - No Title - Imported to Inactive
+
+hoot-frontpage-area_f_3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+hootkit-content-blocks - No Title - Site does not support widget
+
+hoot-frontpage-area_g_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+hootkit-slider-image - No Title - Site does not support widget
+hootkit-content-blocks - No Title - Site does not support widget
+
+hoot-frontpage-area_g_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+hoot-frontpage-area_h_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+hootkit-cta - No Title - Site does not support widget
+
+hoot-frontpage-area_i_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+hootkit-cta - No Title - Site does not support widget
+
+hoot-frontpage-area_j_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+hoot-frontpage-area_k_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - Drop By Sometime... - Imported to Inactive
+Text - Write To Us! - Imported to Inactive
+
+hoot-frontpage-area_k_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+hoot-frontpage-area_l_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

@@ -1,0 +1,65 @@
+
+---Upload files---
+Content file was not uploaded. Error: 
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 130
+Files info:
+Site URL = https://africansurveyors.net
+Data file = not defined!
+Widget file = /home/evhkxgpf/public_html/wp-content/uploads/2021/10/newsmag-lite-widgets-1.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+RSS - RSS Feed - Imported to Inactive
+Search - Search - Imported to Inactive
+Calendar - Calendar - Imported to Inactive
+Categories - Categories - Imported to Inactive
+Tag Cloud - Tag Cloud - Imported to Inactive
+Meta - Meta - Imported to Inactive
+
+homepage-slider : Sidebar does not exist in theme (moving widget to Inactive)
+
+newsmag_slider_widget - No Title - Site does not support widget
+
+content-area : Sidebar does not exist in theme (moving widget to Inactive)
+
+newsmag_widget_posts_column - Politics - Site does not support widget
+newsmag_widget_posts_column - Tech - Site does not support widget
+newsmag_widget_posts_column - World - Site does not support widget
+newsmag_widget_posts_list_vertical - Travel Guides - Site does not support widget
+newsmag_widget_posts_column - Social - Site does not support widget
+newsmag_widget_posts_list_horizontal - Featured - Site does not support widget
+newsmag_widget_posts_grid - Technology - Site does not support widget
+
+Footer Widget 1 : 
+
+Custom HTML - About Newsmag - Imported
+
+Footer Widget 2 : 
+
+Recent Posts - Recent posts - Imported
+
+Footer Widget 3 : 
+
+Tag Cloud - Tag Cloud - Imported
+
+Footer Widget 4 : 
+
+Categories - Categories - Imported
+
+
+
+---cp-ctdi/after_import---
+
